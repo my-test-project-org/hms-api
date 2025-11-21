@@ -6,4 +6,5 @@ node_modules/
 *.env
 
 # IDE and Editor Specific Files (JetBrains IDEs)
-.idea
+.idea/
+*.idea
