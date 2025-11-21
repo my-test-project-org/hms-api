@@ -1,4 +1,9 @@
+# Node.js Dependencies
 node_modules/
+
+# Environment Variables and Secrets
 .env
 *.env
+
+# IDE and Editor Specific Files (JetBrains IDEs)
 .idea
